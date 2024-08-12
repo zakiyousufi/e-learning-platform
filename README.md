@@ -1,2 +1,2 @@
 # e-learning-platform
-- it is a demo project for practicing basik html
+- it is a demo project for practicing basic html
